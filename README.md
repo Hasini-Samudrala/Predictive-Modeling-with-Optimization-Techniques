@@ -37,7 +37,7 @@ Each component is implemented in Python with a strong emphasis on **model evalua
 - Analyzed the effect of **model complexity** and studied **bias–variance trade-offs** to identify the best-performing model.
 
 📄 Detailed explanation and results are documented in  
-Regression_Analysis_Report[Regression_Analysis_Report.pdf]
+[Regression Analysis Report](Regression_Analysis_Report.pdf)
 
 ---
 
@@ -50,8 +50,8 @@ Regression_Analysis_Report[Regression_Analysis_Report.pdf]
 - Studied **convergence behavior, stability, and sensitivity** under different configurations.  
 - Compared optimization methods based on **iteration behavior and numerical performance**.
 
-📄 Detailed explanation and analysis are documented in  
-Optimization_Methods_Report[Optimization_Methods_Report.pdf]
+📄 Detailed explanation and analysis are documented in
+[Optimization_Methods_Report](Optimization_Methods_Report.pdf)
 
 ---
 
